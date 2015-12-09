@@ -1,0 +1,7 @@
+1) Desde terminal, posicionarse en la carpeta con el comando cd.
+
+2) escribir: make
+apretar enter, para iniciar la compilacion.
+
+3) escribir: ./cMicro programa1.m archSalida
+para ejecutar programa compilado.
